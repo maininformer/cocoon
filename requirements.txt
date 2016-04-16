@@ -13,6 +13,7 @@ dj-database-url==0.4.1
 django-extensions==1.6.1
 entrypoints==0.2
 functools32==3.2.3.post2
+gunicorn==19.4.5
 ipykernel==4.3.1
 ipython==4.1.2
 ipython-genutils==0.1.0
@@ -40,4 +41,5 @@ six==1.10.0
 terminado==0.6
 tornado==4.3
 traitlets==4.2.1
+whitenoise==3.0
 wsgiref==0.1.2
