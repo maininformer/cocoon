@@ -112,3 +112,10 @@ EMAIL_HOST = 'smtp.zoho.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = os.environ['FROM_EMAIL']
 EMAIL_HOST_PASSWORD = os.environ['EMAIL_PASSWORD']
+
+DEFAULT_FROM_EMAIL = os.environ['FROM_EMAIL']
+
+
+ADMINS = (
+    ('PlumSemPy', os.environ['TO_EMAIL']),
+)
