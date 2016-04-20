@@ -1,8 +1,9 @@
 # Cocoon
 
-This is the backend for the app Cocoon found here.
+This is the backend for the app Cocoon : https://github.com/cs160-sp16/Group-30-Project
 
 #### Domain : cocoon-healthcare.herokuapp.com
+#### Video : https://youtu.be/d1S3OY9g25Y
 
 ### APIs:
 
