@@ -28,12 +28,14 @@ mysql==0.0.1
 nbconvert==4.2.0
 nbformat==4.0.1
 notebook==4.2.0
+numpy==1.11.0
 pathlib2==2.1.0
 pexpect==4.0.1
 pickleshare==0.7.2
 ptyprocess==0.5.1
 pyzmq==15.2.0
 qtconsole==4.2.1
+requests==2.9.1
 simplegeneric==0.8.1
 simplejson==3.8.2
 singledispatch==3.4.0.3

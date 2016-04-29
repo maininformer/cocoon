@@ -15,11 +15,12 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from all.views import sign_up_login, sound_map, sound_push
+from all.views import sign_up_login, sound_map, sound_push, recommend
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^login', sign_up_login),
     url(r'^push', sound_push),
     url(r'^map', sound_map),
+    url(r'^recommend', recommend),
 ]
